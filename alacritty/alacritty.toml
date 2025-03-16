@@ -55,7 +55,7 @@ git://|ssh://|ftp://)[^\u0000-\u001F-\u009F<>\"\\s{-}\\^()`]+"""
 
 [window]
 decorations = "Buttonless"
-padding = { x = 10, y = 1 }
+padding = { x = 0, y = 0 }
 dynamic_padding = true
 opacity = 0.5
 
